@@ -5,3 +5,5 @@
 Java：较小的java运行环境镜像
 
 SVN：SVN
+
+Auto_Service:容器内服务自启动的示例~

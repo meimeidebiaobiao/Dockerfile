@@ -6,3 +6,5 @@ Alpine+OpneJDK1.8
 
 
 也可以直接拉取镜像：docker pull meimeidebiaobiao/alpine-java
+
+Alpine+JDK1.8镜像：docker pull meimeidebiaobiao/alpine-java

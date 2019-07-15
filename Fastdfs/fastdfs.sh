@@ -15,12 +15,12 @@ mv /usr/local/nginx/conf/nginx.conf /usr/local/nginx/conf/nginx.conf.t
 cp /etc/fdfs/nginx.conf /usr/local/nginx/conf
 
 #echo "start trackerd"
-#/etc/init.d/fdfs_trackerd start
+/etc/init.d/fdfs_trackerd start
 
 #echo "start storage"
-#/etc/init.d/fdfs_storaged start
+/etc/init.d/fdfs_storaged start
 
 #echo "start nginx"
-#/usr/local/nginx/sbin/nginx 
+/usr/local/nginx/sbin/nginx 
 
 tail -f  /dev/null
